@@ -1,0 +1,2 @@
+# econometrics-hypothesis-testing
+Эконометрика
